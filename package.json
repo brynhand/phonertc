@@ -1,0 +1,29 @@
+{
+  "name": "PhoneRTC",
+  "version": "2.1.0",
+  "description": "This plugin is for WebRTC functionality in cordova app",
+  "cordova": {
+    "id": "com.dooble.phonertc",
+    "platforms": [
+      "ios",
+      "android"
+    ]
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/brynhand/phonertc.git"
+  },
+  "keywords": [
+    "ecosystem:cordova",
+    "cordova-ios",
+    "cordova-android"
+  ],
+  "engines": [
+    {
+      "name": "cordova",
+      "version": ">=3.5.0"
+    }
+  ],
+  "author": "",
+  "license": "MIT"
+}
